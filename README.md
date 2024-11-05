@@ -1,1 +1,1 @@
-# chocolte_house
+# chocolate_house
