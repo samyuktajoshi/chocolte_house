@@ -89,5 +89,5 @@ def suggestions():
     return render_template('suggestions.html', suggestions=suggestions)
 
 if __name__ == '__main__':
-    create_tables()  # Ensure tables are created before running the app
+    create_tables() 
     app.run(debug=True)
